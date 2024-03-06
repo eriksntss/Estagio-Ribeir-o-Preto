@@ -11,7 +11,7 @@ public class Atividade1 {
 			SOMA = SOMA + K;
 		}
 		
-		System.out.println(SOMA);
+		System.out.println("O resultado da soma é: " + SOMA);
 		
 
 	}
